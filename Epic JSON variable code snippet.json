@@ -30,3 +30,177 @@
   "profileUpdatedAt": "2021-07-23 23:04:35 +00:00",
   "unsubscribedChannelIds": []
 }
+{
+  "country": "United States",
+  "UserName": "Lenny",
+  "city": "Orlando",
+  "itblInternal": {
+    "documentUpdatedAt": "2021-07-20 15:51:31 +00:00",
+    "emailDomain": "gmail.com",
+    "documentCreatedAt": "2019-05-31 11:26:32 +00:00"
+  },
+  "accountActiveInLast30Days": 1,
+  "emailPreferences": {
+    "status": "Subscribed"
+  },
+  "subscription": {
+    "dateSubscriptionCreated": "2019-03-06T11:27:55.000-08:00",
+    "expirationDate": "2021-08-15T16:58:43.000-07:00",
+    "dateFirstSubscribed": "2019-03-06T11:27:55.000-08:00",
+    "subscriptionStatus": "Subscribed",
+    "stripeCreditCardStatus": "",
+    "productId": "com.getepic.monthly_subscription_trial_8",
+    "subscriptionType": "Apple",
+    "promoCode": ""
+  },
+  "subscribedMessageTypeIds": [],
+  "recommendations": [
+    {
+      "most_popular_ids": [],
+      "suggested_premium_book_ids": [
+        "32959",
+        "15467",
+        "37264",
+        "57145"
+      ],
+      "suggested_book_ids": [
+        "76774",
+        "72792",
+        "76125",
+        "63009"
+      ],
+      "user_id": "32901032",
+      "suggested_freemium_book_ids": [
+        "76774",
+        "72792",
+        "76125",
+        "63009"
+      ],
+      "most_popular_premium_ids": [],
+      "suggested_topic_ids": [],
+      "teacher_assignment_ids": [],
+      "updated_at": "2021-07-20",
+      "most_popular_freemium_ids": []
+    }
+  ],
+  "freemiumEligible": true,
+  "emailListIds": [
+    378156,
+    382408,
+    382433,
+    393643,
+    395097,
+    418025,
+    473681,
+    549368
+  ],
+  "account_id_mod_4": 3,
+  "RefferalCodes": {
+    "twitter": "https://app.referralsaasquatch.com/a/aw5uc25ks308s/message/redirect/TWITTER?engagementMedium=EMAIL&accountId=8830787&userId=32901033&programId=p2p-30daysfree-giftcard",
+    "facebook": "https://app.referralsaasquatch.com/a/aw5uc25ks308s/message/redirect/FACEBOOK?engagementMedium=EMAIL&accountId=8830787&userId=32901033&programId=p2p-30daysfree-giftcard",
+    "direct": "https://referral.getepic.com/mPlVP6Y",
+    "email": "https://referral.getepic.com/mPlVP6Y"
+  },
+  "accountSource": {
+    "source": "",
+    "campaign": "",
+    "medium": "",
+    "heardAboutOther": "",
+    "ipAddress": "72.239.99.160",
+    "heardAbout": "",
+    "platform": "iPhone",
+    "uniqueId": "KI509412D2EB9E415CBB26055B89C367A6"
+  },
+  "kid1": {
+    "name": "Emily",
+    "numQuizzesCreated": 0,
+    "numPlaylistsCreated": 0,
+    "tapPoints": 0,
+    "userId": 32901032,
+    "connectedTeacherEmails": [
+      "liz_hall@scps.k12.fl.us"
+    ],
+    "readingAge": 8,
+    "booksRead": 81,
+    "age": 8,
+    "isParent": 0,
+    "dateLastLogin": "2021-07-18T17:00:01.000-07:00",
+    "totalTimeReadLast7Days": 130,
+    "dateCreated": "2018-10-09T10:04:29.000-07:00"
+  },
+  "unsubscribedMessageTypeIds": [],
+  "kid4": {
+    "name": "James R.",
+    "numQuizzesCreated": 0,
+    "numPlaylistsCreated": 0,
+    "tapPoints": 0,
+    "userId": 99900892,
+    "connectedTeacherEmails": [
+      "amit+111red1@getepic.com"
+    ],
+    "readingAge": 7,
+    "booksRead": 3,
+    "age": 8,
+    "isParent": 0,
+    "dateLastLogin": "2021-06-10T17:00:01.000-07:00",
+    "totalTimeReadLast7Days": 0,
+    "dateCreated": "2020-05-28T08:19:55.000-07:00"
+  },
+  "kid2": {
+    "name": "Kiffy",
+    "numQuizzesCreated": 0,
+    "numPlaylistsCreated": 0,
+    "tapPoints": 0,
+    "userId": 48197105,
+    "connectedTeacherEmails": [
+      "Lisa_pate@scps.k12.fl.us",
+      "tj+teacher88@getepic.com",
+      "melanie.davila@twinriversusd.org"
+    ],
+    "readingAge": 6,
+    "booksRead": 2,
+    "age": 8,
+    "isParent": 0,
+    "dateLastLogin": "2021-06-10T17:00:01.000-07:00",
+    "totalTimeReadLast7Days": 0,
+    "dateCreated": "2019-07-17T17:24:18.000-07:00"
+  },
+  "email": "ransom1538@gmail.com",
+  "profileUpdatedAt": "2021-07-20 15:51:31 +00:00",
+  "kid3": {
+    "name": "stage5",
+    "numQuizzesCreated": 0,
+    "numPlaylistsCreated": 0,
+    "tapPoints": 0,
+    "userId": 73302034,
+    "connectedTeacherEmails": [
+      "vijaya+vred1@getepic.com"
+    ],
+    "readingAge": 8,
+    "booksRead": 2,
+    "age": 9,
+    "isParent": 0,
+    "dateLastLogin": "2021-06-16T17:00:01.000-07:00",
+    "totalTimeReadLast7Days": 0,
+    "dateCreated": "2020-01-10T22:49:24.000-08:00"
+  },
+  "signupDate": "2019-05-31 11:26:32 +00:00",
+  "ip": "72.239.99.160",
+  "accountType": "Standard",
+  "timeZone": "America/New_York",
+  "account_id_mod_10": 7,
+  "allUsersTotalTimeReadLast7Days": 130,
+  "userId": "8830787",
+  "accountDateLastLogin": "2021-07-18T17:00:01.000-07:00",
+  "accountId": 8830787,
+  "signupSource": "API",
+  "epicLocale": "en_US",
+  "Account_ID_last_2": 87,
+  "itblDS": {
+    "brandAffinityLabel": "positive"
+  },
+  "user profile count": 7,
+  "region": "FL",
+  "unsubscribedChannelIds": [],
+  "saasquatchRefferalLink": "https://referral.getepic.com/mPlVP6Y"
+}
