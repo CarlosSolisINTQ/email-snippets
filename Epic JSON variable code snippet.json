@@ -1,36 +1,4 @@
 {
-  "signupDate": "2020-10-23 21:30:05 +00:00",
-  "country": "United States",
-  "city": "Danville",
-  "itblInternal": {
-    "documentUpdatedAt": "2021-07-28 23:34:43 +00:00",
-    "emailDomain": "getepic.com",
-    "documentCreatedAt": "2020-10-23 21:30:05 +00:00"
-  },
-  "ip": "2601:648:8100:84f0:b42c:b574:476c:9820",
-  "timeZone": "America/Los_Angeles",
-  "subscribedMessageTypeIds": [],
-  "signupSource": "Import",
-  "StudentsName":"Ximena",
-  "TeachersName":"Mrs. Mandujano",
-  "StudentAvatar":"https://cdn.getepic.com/journal/avatars/avatar_36.png",
-  "TeacherAvatar":"https://cdn.getepic.com/journal/avatars/avatar_79.png",
-  "LinkIcon":"https://www.getepic.com/assets/email-link/link-connected.png",
-  "emailListIds": [
-    725040,
-    1095990,
-    1104069
-  ],
-  "itblDS": {
-    "brandAffinityLabel": "loyal"
-  },
-  "unsubscribedMessageTypeIds": [],
-  "region": "CA",
-  "email": "lenny@getepic.com",
-  "profileUpdatedAt": "2021-07-23 23:04:35 +00:00",
-  "unsubscribedChannelIds": []
-}
-{
   "country": "United States",
   "UserName": "Lenny",
   "city": "Orlando",
